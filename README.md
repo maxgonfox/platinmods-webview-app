@@ -1,5 +1,4 @@
-# platinmods-webview-app
-a webview app for the platinmods website with availability for android and ios.
+a webview application for the platinmods website with availability for Android and iOS and with login and cache functionality.
 
 ## Screenshots
 
